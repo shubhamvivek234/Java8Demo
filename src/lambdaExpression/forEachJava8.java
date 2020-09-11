@@ -13,7 +13,7 @@ public class forEachJava8 {
 			people.add(30);
 			people.add(40);
 			people.add(80);
-			people.add(90);
+			people.add(120);
 			
 			
 			people.forEach(p->System.out.println(p/2));
